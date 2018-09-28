@@ -1,0 +1,11 @@
+p {float: left;
+   position: absolute;
+  z-index: 3;
+  font-family: 'Courgette', serif;
+  font-size: 90px;
+  color: white;
+  -webkit-text-stroke: 2px #cccccc;}
+
+canvas {float: left;
+   position: absolute;
+        z-index: 1;}
